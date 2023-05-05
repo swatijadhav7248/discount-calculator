@@ -63,3 +63,10 @@ input{
     text-align: center;
 }
 
+#socialMedia p {
+    text-align: right;
+    margin-right: 15px;
+    letter-spacing: 10px;
+}
+
+
